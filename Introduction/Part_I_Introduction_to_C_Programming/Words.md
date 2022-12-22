@@ -35,3 +35,14 @@
 - **marvelous** : muhteşem, harika, olağan üstü;
 - **legitimate** : meşru, yasal, haklı, uygun;
 - **culminating** : doruğa ulaşan, sonuçlanmak;
+- **sorrow** : üzüntü, keder, acı, matem;
+- **woe** : vah, keder, gam;
+- **heinous** : iğrenç, çirkin;
+- **cower** : çömelmek, çökmek, korkudan sinmek;
+- **heck** : kahrolası, aşırı şey, şiddetli şey;
+- **nod** : sallamak, kafa sallamak, başıyla onaylamak;
+- **carved** : oymak, haketmek, oyulmuş;
+- **boo-boo** : aptalca hata;
+- **twidling** : döndürmek, çevirmek;
+- **pithier** : küçük, kısa ve öz, içerikli;
+- **toad** : karakurbağası, iğrenç tip;

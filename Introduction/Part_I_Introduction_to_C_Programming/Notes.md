@@ -29,3 +29,4 @@
     3. Link all object files with linker!
     4. Run the program!
 
+- Funny phrase of programming : %10 writing code and algorithms, %90 finding errors and debugging :)

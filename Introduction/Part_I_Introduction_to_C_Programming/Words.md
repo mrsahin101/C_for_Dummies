@@ -1,0 +1,30 @@
+# This file will contain english words that i am not familiar with it. I will write the english word and corresponding turkish words!
+
+- **Dank** : nemli, rutubetli, ıslak;
+- **musty** : küflü, küf kokulu,köhne;
+- **contrary** : aksine, ters, karşıt, inatçı;
+- **realm** : Diyar, alan, krallık,ülke;
+- **rites** : ayinler, dini törenler;
+- **poppycock** : saçmalık, boş laf;
+- **below** : feryat, bağırma, böğürme;
+- **dare** : cesaret etmek, meydan okumak, kalkışmak;
+- **sacred** : kutsal, mukaddes;
+- **twist** : büküm, kıvırma, bükmek;
+- **primodrial** : ilkel, ilk, eski;
+- **pantheon** : ulusal kahramanmlar anıtı, panteon;
+- **yabber** : gevezelik;
+- **resemble** : benzemek;
+- **vowels** : sesli harfler;
+- **grunt** : homurtu, hırıltı;
+- **groans** : inilti, inliyor, sıkıntı;
+- **squawk** : ciyaklamaki, şikayet, viyaklama;
+- **offspring** : yavru, çoluk çocuk, ürün;
+- **weep** : ağlamak, damlamak, sızlamak;
+- **bitterly** : acı bir şekilde, için için;
+- **snugly** : rahatça;
+- **whacking** : koskocaman, muazzam, kocaman, dayak, kötek;
+- **epistle** : mektup,name;
+- **primitive** : ilkel, primitif, basit, ilk;
+- **ensure** : sağlamak, garantiye almak, sağlama almak;
+- **fussy** : telaşlı, titiz, mızmız, detaycı;
+- **wacky** : kaçık, mantıksız, saçma;

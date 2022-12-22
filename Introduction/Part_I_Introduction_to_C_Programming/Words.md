@@ -77,3 +77,7 @@
 - **encased** : kapalı;
 - **predated** : tarih öncesi;
 - **conveyed** : taşınan;
+- **jots** : notlar;
+- **havoc** : tahribat, yıkım, zarar, hasar;
+- **abbreviations** : kısaltmalar;
+- **fret** : üzülmek, perde, aşınma;

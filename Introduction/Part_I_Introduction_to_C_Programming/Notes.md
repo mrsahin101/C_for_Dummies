@@ -108,4 +108,5 @@
 - also there are 2 keyword in C deprecated. Avoid using them
     1. fortran
     2. entry
-    
+
+- All keywords are lower case letters and C language is case sensitive. So gotta keep that in mind when coding! :)  

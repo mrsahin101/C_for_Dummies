@@ -28,3 +28,10 @@
 - **ensure** : sağlamak, garantiye almak, sağlama almak;
 - **fussy** : telaşlı, titiz, mızmız, detaycı;
 - **wacky** : kaçık, mantıksız, saçma;
+- **duly** : gerektiği gibi, zamanında, hakkıyla;
+- **gnash** : gıcırdatmak, gıcırdamak;
+- **stew** : güveç, yahni, kapama, endişe;
+- **grity** : cesur, kumlu, dayanıklı;
+- **marvelous** : muhteşem, harika, olağan üstü;
+- **legitimate** : meşru, yasal, haklı, uygun;
+- **culminating** : doruğa ulaşan, sonuçlanmak;

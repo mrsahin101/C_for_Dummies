@@ -46,3 +46,15 @@
 - **twidling** : döndürmek, çevirmek;
 - **pithier** : küçük, kısa ve öz, içerikli;
 - **toad** : karakurbağası, iğrenç tip;
+- **cog** : çark dişi, diş, dişli çark, tutmak, hile yapmak;
+- **sneering** : küçümseyen, alaycı;
+- **snotty** : sümüklü, aşağılık, kendini beğenmiş;
+- **uncanny** : esrarengiz, acayip, tekin olmayan;
+- **wicked** : kötü, aşağılık, hain, ahlaksız;
+- **albeit** : gerçi, karşın, her ne kadar;
+- **erred** : yanılmış;
+- **avuncular** : babaanne, amca;
+- **wander** : gezmek, dolaşmak, uzaklaşmak;
+- **honk** : korna, kaz sesi;
+- **galore** : bolca, bol bol, çok;
+- **snobbishly** : züppece;

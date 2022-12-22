@@ -58,3 +58,15 @@
 - **honk** : korna, kaz sesi;
 - **galore** : bolca, bol bol, çok;
 - **snobbishly** : züppece;
+- **malodorous** : kötü kokulu, pis kokulu;
+- **venture** : girişim, risk, teşebbüş, cüret;
+- **dispense** : dağıtmak, ilaç hazırlamak;
+- **zap** : öldürmek, gebertmek, hücüm etmek;
+- **mangled** : ezilmiş, bozmak, silindiren geçirmek;
+- **frazzled** : yıpranmış, yormak, yıpranmak;
+- **spews** : kusmuk, kusma;
+- **bogus** : sahte, taklit, kalp;
+- **hoists** : kaldırma, vinç, çekme;
+- **breeze** : esinti, meltem, rüzgar;
+- **churn** : yayık, ğüğüm, süt kabı;
+- **aggravate** : ağırlaştırmak, kötüleştirmek;

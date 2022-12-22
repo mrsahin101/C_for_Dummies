@@ -30,3 +30,13 @@
     4. Run the program!
 
 - Funny phrase of programming : %10 writing code and algorithms, %90 finding errors and debugging :)
+
+- C language has 2 types of errors : 
+    1. Warnings -> this type of errors are not fatal and compiler will compile the code. But its good practice to fix warnings as well
+    2. Errors   -> This types of errors are fatal errors and compiler will not compile the code!
+
+- Another way of grouping error could be like this :
+    1. Compiler errors  
+    2. Linker errors
+    3. Run-time errors
+    4. Bugs

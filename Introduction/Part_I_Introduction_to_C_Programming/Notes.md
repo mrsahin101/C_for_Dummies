@@ -40,3 +40,72 @@
     2. Linker errors
     3. Run-time errors
     4. Bugs
+
+- Each program must have starting point(aka entry point!). In C language every program starting point is main function.
+
+- C language has 32 keywords!
+    1. auto     
+    2. break
+    3. case
+    4. char
+    5. const
+    6. continue
+    7. default
+    8. do
+    9. double
+    10. else
+    11. enum
+    12. extern
+    13. float
+    14. for
+    15. goto
+    16. if
+    17. int 
+    18. long
+    19. register
+    20. return
+    21. short
+    22. signed
+    23. sizeof
+    24. static
+    25. struct
+    26. switch
+    27. typedef
+    28. union
+    29. unsigned
+    30. void 
+    31. volatile
+    32. while
+
+- Also superset of C, there another language called C++, which has some keywords. For that case avoid using those 32 C keywords and those listed below which used by C++
+    1. asm                  
+    2. bool
+    3. catch
+    4. class
+    5. const_cast
+    6. delete
+    7. dynamic_cast
+    8. false
+    9. friend
+    10. inline
+    11. mutable
+    12. namespace
+    13. new
+    14. operator
+    15. private
+    16. protected
+    17. public
+    18. reinterpret_cast
+    19. template
+    20. this
+    21. throw
+    22. true
+    23. try
+    24. typeid
+    25. using
+    26. virtual
+
+- also there are 2 keyword in C deprecated. Avoid using them
+    1. fortran
+    2. entry
+    

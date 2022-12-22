@@ -70,3 +70,10 @@
 - **breeze** : esinti, meltem, rüzgar;
 - **churn** : yayık, ğüğüm, süt kabı;
 - **aggravate** : ağırlaştırmak, kötüleştirmek;
+- **cadance** : dans edebilir;
+- **faint** : baygın, bayılma, bitkin;
+- **hurls** : fırlatır, fırlatmak, atmak;
+- **headlong** : baş aşağı, paldır küldür, apar topar;
+- **encased** : kapalı;
+- **predated** : tarih öncesi;
+- **conveyed** : taşınan;

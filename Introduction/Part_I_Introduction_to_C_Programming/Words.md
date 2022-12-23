@@ -112,3 +112,12 @@
 - **looming** : baş gösteren;
 - **tizzy** : telaş, aşırı heyecan;
 - **intact** : bozulmamış, tam, el değmemiş;
+- **doohickey** : ahmak, zımbırtı, biblo, şey;
+- **doodads** : karalamalar, zımbırtı, şey;
+- **seldom** : nadiren, seyrek, arada bir;
+- **horrid** : korkunç, berbat, iğrenç, kötü;
+- **vaunted** : övünen, övmek;
+- **snatch** : kapmak, koparmak, kapma, yakalama;
+- **cuddly** : sevimli, yumuşacık;
+- **paws** : pençeler, patiler;
+- **quirk** : tuhaflık, espri, acayiplik;

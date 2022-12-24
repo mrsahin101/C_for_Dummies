@@ -29,3 +29,9 @@
 - **subtle** : hemen göze çarpmayan, ince, incelikli, zekice;
 - **wrinkless** : kırışıklıklar;
 - **regurgitated** : kusmak, geri çıkmak, geri akmak;
+- **cinchy** : çocuk oyuncağı, çantada keklik;
+- **bead** : boncuk, tane, damla;
+- **flood** : sel basmak, taşkın, bolluk;
+- **deviation** : sapma, ayrılma;
+- **crop** : mahsul, ekmek, kırpmak, ürün;
+- **dislodge** : yerinden oynatmak, çıkarmak, kovmak;

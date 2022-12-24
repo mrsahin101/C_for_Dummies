@@ -112,3 +112,5 @@
 - All keywords are lower case letters and C language is case sensitive. So gotta keep that in mind when coding! :)  
 
 - Syntax of printf function is : **printf(“format_string”[,var[,...]]);**
+
+- In C we can use /* */ for multiple line comments or // for single line comments

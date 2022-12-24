@@ -121,3 +121,16 @@
 - **cuddly** : sevimli, yumuşacık;
 - **paws** : pençeler, patiler;
 - **quirk** : tuhaflık, espri, acayiplik;
+- **galore** : bolca, bol bol, çok;
+- **glaze** : sır, cila;
+- **drool** : saçmalamak, ağzı sulanmak;
+- **pour** : dökün, boşlatmak, akıtmak, akma;
+- **yawn** : esnemek, esneme;
+- **satiate** : doyurmak, gına getirmek, tatmin etmek;
+- **placate** : yatıştırmak, sakinleştirmek;
+- **permitted** : izin verildi;
+- **nestled** : yuvalanmış;
+- **cinchy** : çocuk oyuncağı;
+- **perils** : tehlike;
+- **faux pas** : gaf;
+- **gist** : öz, ana fikir, özel, asıl;

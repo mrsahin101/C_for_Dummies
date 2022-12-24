@@ -141,4 +141,4 @@
 - **boneheaded** : kemik kafalı, dangalak;
 - **tacks** : çiviler;
 - **pesky** : sinir bozucu, rahatsız edici, belalı;
-- **sweepstakes** : çekilişler, piyango;
+

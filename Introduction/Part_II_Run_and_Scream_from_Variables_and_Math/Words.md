@@ -1,0 +1,23 @@
+# This file will contain english words that i am not familiar with it. I will write the english word and corresponding turkish words!
+
+- **sweepstakes** : çekilişler, piyango;
+- **splattering** : sıçrayan, serpmek, serpiştirmek;
+- **beady-eyed** : boncuk gözlü;
+- **berate** : azarlamak, haşlamak, fırça atmak;
+- **infatuation** : aşık olma, sevdalanma;
+- **dreading** : korkmak, ödü kopmak, çekinmek;
+- **smattering** : dağınık, yüzelsel bilgi, çat pat bilme;
+- **intimate** : samimi, yakın, özel, sırdaş;
+- **juggling** : hokkabazlık;
+- **sane** : aklı başında, makul, akıllıca, akla yatkın;
+- **doomed** : mahkum, ölümme mahkum, kader mahkumu, mecburen;
+- **ever-dwindling** : sürekli azalan;
+- **cluttering** : yağmak, darmadağın etmek, alt üst etmek, karışıklık;
+- **whine** : sızlanmak, mızmızlanmak;
+- **geezerhood** : morukluk;
+- **pincher** : kıskaç;
+- **creeping** : sürünen, ürpertici;
+- **dazzling** : göz kamaştırıcı, büyüleyici, parlak;
+- **tossing** : savurma, kokulu, mis kokulu;
+- **posies** : buket, çiçek demeti;
+- **peck** : gagalamak, azar azar yemek, gaga izi;

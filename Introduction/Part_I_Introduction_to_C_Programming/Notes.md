@@ -114,3 +114,5 @@
 - Syntax of printf function is : **printf(“format_string”[,var[,...]]);**
 
 - In C we can use /* */ for multiple line comments or // for single line comments
+
+- Stay away from puts and always use printf function.

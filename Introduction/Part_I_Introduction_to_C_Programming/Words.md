@@ -134,3 +134,11 @@
 - **perils** : tehlike;
 - **faux pas** : gaf;
 - **gist** : öz, ana fikir, özel, asıl;
+- **cluncky** : hantal;
+- **grapevine** : dedikodu, asma, söylenti, söylenti;
+- **conconting** : bağlama;
+- **virtues** : erdemler;
+- **boneheaded** : kemik kafalı, dangalak;
+- **tacks** : çiviler;
+- **pesky** : sinir bozucu, rahatsız edici, belalı;
+- **sweepstakes** : çekilişler, piyango;

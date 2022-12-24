@@ -21,3 +21,11 @@
 - **tossing** : savurma, kokulu, mis kokulu;
 - **posies** : buket, çiçek demeti;
 - **peck** : gagalamak, azar azar yemek, gaga izi;
+- **tome** : bana göre, cilt, kalın kitap;
+- **fiddle** : vaktini boşa harcamak, keman, dalavere;
+- **cadaver** : kadavra, ceset;
+- **fling** : fırlatmak, atmak, savurmak, deneme;
+- **wit** : nükte, zeka;
+- **subtle** : hemen göze çarpmayan, ince, incelikli, zekice;
+- **wrinkless** : kırışıklıklar;
+- **regurgitated** : kusmak, geri çıkmak, geri akmak;

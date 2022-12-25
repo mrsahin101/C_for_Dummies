@@ -53,3 +53,7 @@
 - **doohickeys** : zımbırtı, biblo, şey;
 - **obnoxious** : iğrenç, çirkin, kötü, pis;
 - **pout** : surat asmak, somurtmak, dudak bükme;
+- **goggles** : gözlüki koruyucu gözlük;
+- **loathsome** : iğrenç, tiksindirici, nefret uyandıran;
+- **gingerly** : dikkatle, yavaşca, temkimli;
+- **puny** : cılız, zayıf, sıska;

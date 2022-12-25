@@ -57,3 +57,15 @@
 - **loathsome** : iğrenç, tiksindirici, nefret uyandıran;
 - **gingerly** : dikkatle, yavaşca, temkimli;
 - **puny** : cılız, zayıf, sıska;
+- **whammy** nazar, darbe, kem göz;
+- **encompass** : kapsamak, kuşatmak, sarmak;
+- **dire** : korkunç, müthiş, dehşetli, uğursuz;
+- **maddening** : çıldırtıcı, delirtici, sinirledirici;
+- **mere** : sadece, saf, katıksız, sade;
+- **stumble** : yanılma, hata, tökezlemek, sendelemek;
+- **tomfoolery** : maskaralık, aptalca davranış;
+- **gawk** : aval aval bakmak, ahmak,  sakar kimse, beceriksiz kimse;
+- **intently** : dikkatle;
+- **plunge** : dalma, dalış, atılma;
+- **murky** : karanlık, bulanık, bulutlu;
+- **cavalcade** : süvari alayı;

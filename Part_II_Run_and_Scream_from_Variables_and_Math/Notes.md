@@ -15,3 +15,7 @@
 - When naming variable in C, don't start naming variable name numbers. Also don't use keywords. You can refer to compiler help manual.
 
 - #define directive syntax : -> #define SHORTCUT value  -> define directive also called symbolic constant. Usually writen with all capital letter for not to confuse with normal variables.
+
+### Numbers in C
+
+![Possible Implicit Conversions in C#](https://github.com/mrsahin101/C_for_Dummies/tree/master/Part_II_Run_and_Scream_from_Variables_and_Math/Images/Numbers_in_C.png) 

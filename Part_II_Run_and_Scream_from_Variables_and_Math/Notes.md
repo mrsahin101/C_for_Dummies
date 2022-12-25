@@ -18,4 +18,4 @@
 
 ### Numbers in C
 
-![Possible Implicit Conversions in C#](https://github.com/mrsahin101/C_for_Dummies/tree/master/Part_II_Run_and_Scream_from_Variables_and_Math/Images/Numbers_in_C.png) 
+![Possible Implicit Conversions in C#](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_II_Run_and_Scream_from_Variables_and_Math/Images/Numbers_in_C.PNG) 

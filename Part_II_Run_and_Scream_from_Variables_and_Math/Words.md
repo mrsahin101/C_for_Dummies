@@ -69,3 +69,13 @@
 - **plunge** : dalma, dalış, atılma;
 - **murky** : karanlık, bulanık, bulutlu;
 - **cavalcade** : süvari alayı;
+- **charred** : kömürleşmiş, karbonlaşmak, kömür haline getirmek;
+- **fixate** : sabitlemek, yapıştırmak, gözlerini dikmek;
+- **floodgates** : bent kapakları;
+- **pounding** : vurma, dövme;
+- **asylum** : iltica, sığınma, sığınak, akıl hastanesi;
+- **snugly** : rahatça;
+- **nontypeable** : yazılamaz;
+- **wondrous** : harika, fevkalade, şaşılacak, harikulade;
+- **hunky-dory** : yakışıklı, birinci sınıf, üstün kaliteli;
+- **sordid** : kirli, sefil, çıkarcı, aşağılık;

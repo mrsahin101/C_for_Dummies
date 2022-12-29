@@ -8,3 +8,4 @@
 - **dwells** : ikamet eder;
 - **recrimination** : suçlama, karşılıklı suçlama, birbirini suçlama;
 - **snickering** : kıkırdama, kıs kıs gülme;
+- **scribbles** : karalamalar;

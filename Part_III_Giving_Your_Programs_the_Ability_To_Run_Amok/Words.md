@@ -32,3 +32,10 @@
 - **witness** : tanık, şahit;
 - **slink** : sinsice, gizlice yürümek;
 - **scrunched-up** : ezilmiş;
+- **confounding** : kafa karıştırıcı, şaşırtmak, yıkmak, kahretmek;
+- **magic-pellets** : sihirli parçacıklar;
+- **casserole** : güveç;
+- **gyp** : çingene, dolandırmak, aldatmak, kandırmak;
+- **overbearing** : zorba, küstah, baskıcı;
+- **insistent** : ısrarcı, inatçı, zorlayıcı;
+- **circumvent** : atlatmak, engellemek, önlemek, bozmak;

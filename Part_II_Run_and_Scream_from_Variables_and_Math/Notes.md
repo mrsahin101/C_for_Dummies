@@ -25,3 +25,5 @@
 - syntax for declaring float variable is : float var;
 
 - Syntax for writing numbers in scientific format : x.xxxxEnn -> 1 digit before comma, 4 digit after comma, 2 digit for exponent
+
+- syntax for declaring char variable is : char var; -> contains only 1 character. different that string.

@@ -49,3 +49,8 @@
 - **idented** : girintili, dişlenmiş;
 - **conveniently** : elverişli;
 - **zit** : sivilce;
+- **ilk** : ilk, tip, tür;
+- **soggy** : çamur, hantal, vıcık vıcık;
+- **zucchini** : kabak, yeşil kabak;
+- **legitimate** : meşru, yasal, haklı;
+- **shunned** : dışlanmış, uzak durmak;

@@ -54,3 +54,8 @@
 - **zucchini** : kabak, yeşil kabak;
 - **legitimate** : meşru, yasal, haklı;
 - **shunned** : dışlanmış, uzak durmak;
+- **horde** : kalabalık, sürü, göçebe yağmacı topluluk;
+- **devised** : tasarlanmış, bulmak, planlamak, icat etmek;
+- **bosom** : kucak, göğüs;
+- **delinquent** : suçlu, hatalı, geciktirilmiş;
+- **manner** : tavır, tarz, tutum, davranış;

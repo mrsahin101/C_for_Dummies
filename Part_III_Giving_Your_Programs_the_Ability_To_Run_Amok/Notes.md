@@ -8,4 +8,11 @@
 2. Division
 3. Addition
 4. Substraction
+
+- if statement Syntax
+    if(comparison)
+    {
+        statement;
+        [statement;..]
+    }
   

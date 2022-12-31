@@ -39,3 +39,13 @@
 - **overbearing** : zorba, küstah, baskıcı;
 - **insistent** : ısrarcı, inatçı, zorlayıcı;
 - **circumvent** : atlatmak, engellemek, önlemek, bozmak;
+- **mighty** : kudretli, güçlü, büyük, muazzam;
+- **eternally** : sonsuza dek, ebediyen;
+- **wedges** : takoz, çivi;
+- **hydra** : hidra, polip, çok başlı yılan;
+- **prom** : balo, gezinti;
+- **thigh** : uyluk, kalça;
+- **elaborates** : detaylandırır, açmak, özen göstermek;
+- **idented** : girintili, dişlenmiş;
+- **conveniently** : elverişli;
+- **zit** : sivilce;

@@ -59,3 +59,18 @@
 - **bosom** : kucak, göğüs;
 - **delinquent** : suçlu, hatalı, geciktirilmiş;
 - **manner** : tavır, tarz, tutum, davranış;
+- **alas** : ne yazıkki;
+- **barn** : ahır, ambar;
+- **etched** : kazınmış, hakketmek;
+- **rug** : kilim, halı, seccade;
+- **heavy-laden** : ağır yüklü;
+- **abbreviate** : kısaltmak;
+- **terribly** : korkunç, son derece;
+- **crudely** : kabaca;
+- **intact** : bozulmamış, dokunulmamış, tam;
+- **scrunched** : buruşuk, ezmek;
+- **brevity** : kısalık, özlük;
+- **batty** : çatlak, kaçık, üşütük;
+- **calirvoyant** : sezgisel örgü;
+- **resembles** : benzer, benzemek;
+- **deftness** : maharet, ustalık, beceri;

@@ -25,3 +25,5 @@
 -    ![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/If_Statements_1.PNG) 
      ![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/If_Statements_2.PNG)
 
+- If and else statements
+    ![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/If_else.PNG)

@@ -74,3 +74,12 @@
 - **calirvoyant** : sezgisel örgü;
 - **resembles** : benzer, benzemek;
 - **deftness** : maharet, ustalık, beceri;
+- **virtues** : erdemler;
+- **fudgy** : huysuz;
+- **gavotte** : gavot dansı;
+- **hokey-pokey** : hokus pokus, el çabukluğu, hile;
+- **legitimate** : meşru, yasal, mantıklı;
+- **reckon** : hesaba katmak, saymak, hesaplamak;
+- **soothes** : yatıştırır, yatıştırmak, sakinleştirmek;
+- **frayed** : yıpranmış;
+- **conundrums** : bilmeceler, muamma;

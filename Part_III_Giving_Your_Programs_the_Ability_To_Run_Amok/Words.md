@@ -83,3 +83,6 @@
 - **soothes** : yatıştırır, yatıştırmak, sakinleştirmek;
 - **frayed** : yıpranmış;
 - **conundrums** : bilmeceler, muamma;
+- **detritus** : döküntü;
+- **alas** : ne yazikki;
+- **jocularity** : neşelik, şakacılık;

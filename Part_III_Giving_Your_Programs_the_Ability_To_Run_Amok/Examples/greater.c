@@ -7,6 +7,7 @@ int main()
     printf("What character is greater?\n");
     printf("Type a single character:");
     a = getchar();
+    fflush(stdin);
     printf("Type another character:");
     b = getchar();
 

@@ -27,3 +27,8 @@
 
 - If and else statements
     ![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/If_else.PNG)
+ 
+
+ - Since getchar reads from standart IO, for sequantial use; must flush stdin first to get input properly from prompt.
+
+ - Comparing single character variable is viable with if, but when comparing whole string; result is unpredictable. 

@@ -32,3 +32,7 @@
  - Since getchar reads from standart IO, for sequantial use; must flush stdin first to get input properly from prompt.
 
  - Comparing single character variable is viable with if, but when comparing whole string; result is unpredictable. 
+
+
+ #### Logical Operators in if Statements
+ 

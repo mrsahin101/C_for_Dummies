@@ -86,3 +86,6 @@
 - **detritus** : döküntü;
 - **alas** : ne yazikki;
 - **jocularity** : neşelik, şakacılık;
+- **iffy** : şüpheli;
+- **digress** : konu dışına çıkmak, konuyu dağıtmak;
+- **budding** : tomurcuklanan, mesleğinde ilerleyen;

@@ -89,3 +89,6 @@
 - **iffy** : şüpheli;
 - **digress** : konu dışına çıkmak, konuyu dağıtmak;
 - **budding** : tomurcuklanan, mesleğinde ilerleyen;
+- **utterly** : tamamen, düpedüz;
+- **grease** : gres, yağ, iç yağı;
+- **slate** : aday listesi, yazı tahtası, arduvaz, kayrak;

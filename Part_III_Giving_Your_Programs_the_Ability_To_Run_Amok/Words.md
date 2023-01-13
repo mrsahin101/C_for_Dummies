@@ -92,3 +92,5 @@
 - **utterly** : tamamen, düpedüz;
 - **grease** : gres, yağ, iç yağı;
 - **slate** : aday listesi, yazı tahtası, arduvaz, kayrak;
+- **behoove** : yakışır, yaraşmak, düşmek;
+- **snarf** : hırlamak;

@@ -114,3 +114,5 @@
 - **compromising** : uzlaşmacı, anlaşmak, uzlaştırmak;
 - **utterly** : tamamen, düpedüz, bütün bütün;
 - **fuss** : yaygara, karışıklık, telaş;
+- **spiffing** : müthiş, çok şık, mükemmel;
+- **nod** : başını sallamak, kafa sallamak, başı öne düşmek;

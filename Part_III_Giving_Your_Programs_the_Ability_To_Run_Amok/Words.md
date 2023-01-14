@@ -111,3 +111,6 @@
 - **insidious** : sinsi, hain, gizli;
 - **amok** : kontrol edilemez davranış, 
 - **etiquette** : görgü kuralları;
+- **compromising** : uzlaşmacı, anlaşmak, uzlaştırmak;
+- **utterly** : tamamen, düpedüz, bütün bütün;
+- **fuss** : yaygara, karışıklık, telaş;

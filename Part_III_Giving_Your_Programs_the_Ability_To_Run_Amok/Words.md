@@ -94,3 +94,13 @@
 - **slate** : aday listesi, yazı tahtası, arduvaz, kayrak;
 - **behoove** : yakışır, yaraşmak, düşmek;
 - **snarf** : hırlamak;
+- **muttering** : mırıldanma, fısıldama;
+- **jolly** : neşeli, keyifli;
+- **maddening** : çıldırtıcı, delirtici;
+- **corral** : ağıl, konak yeri;
+- **subsidy** : sübvansiyon, para yardımı;
+- **cumbersome** : hantal, ağır;
+- **toss** : atmak, fırlatmak;
+- **dull** : sıkıcı, donuk;
+- **foreboding** : önsezi, içine doğma;
+- **dozen** : düzine, çok sayı;

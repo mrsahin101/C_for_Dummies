@@ -116,3 +116,8 @@
 - **fuss** : yaygara, karışıklık, telaş;
 - **spiffing** : müthiş, çok şık, mükemmel;
 - **nod** : başını sallamak, kafa sallamak, başı öne düşmek;
+- **rehearses** : provalar, prova yapmak, tekrarlamak;
+- **forthwith** : derhal, hemen;
+- **treachery** : hıyanet, ihanet, hainlik;
+- **deceit** : hile, aldatma, yalan, düzenbazlık;
+- **pummeling** : yumruklama, vurmak;

@@ -51,3 +51,6 @@
 
 - break keyword breaks out of the loop. This keyword only break out of the loop its in. Doesn't break out of nested loop. Just the loop its in!
 
+#### Some syntactic sugar of C
+- i++, i--, i += 5, i -= 5, i /= 2;
+    ![ Comparison Table]( https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/Logical_Operators.PNG)

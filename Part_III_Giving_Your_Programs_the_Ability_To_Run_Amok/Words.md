@@ -104,3 +104,10 @@
 - **dull** : sıkıcı, donuk;
 - **foreboding** : önsezi, içine doğma;
 - **dozen** : düzine, çok sayı;
+- **eternal** : sonsuz, ebedi;
+- **endearing** : sevecen, cazip, çekici;
+- **moody** : kaprisli, huysuz, dengesiz;
+- **deliberate** : kasten, kasıtlı, planlı;
+- **insidious** : sinsi, hain, gizli;
+- **amok** : kontrol edilemez davranış, 
+- **etiquette** : görgü kuralları;

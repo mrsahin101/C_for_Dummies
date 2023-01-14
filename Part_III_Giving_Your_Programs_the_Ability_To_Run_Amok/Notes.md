@@ -43,3 +43,10 @@
     {
         statements;
     }
+- Syntax for infinite for loop
+    for(;;)
+    {
+        statements;
+    }
+
+- break keyword breaks out of the loop. This keyword only break out of the loop its in. Doesn't break out of nested loop. Just the loop its in!

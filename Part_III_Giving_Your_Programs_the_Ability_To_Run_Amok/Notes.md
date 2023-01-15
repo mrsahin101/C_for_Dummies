@@ -73,3 +73,5 @@
 - When we taking input from user always its good practice to **check input bounds!**. This is also called making it bulletprof. Its used in professional programs.
 
 - C language has sleep(seconds) functions for generating delay. it could be usefull sometimes. In some implementation of GCC sleep function takes input in order of milliseconds.
+
+- **continue** keyword is very usefull. we can basically ignore that step with continue keyword.

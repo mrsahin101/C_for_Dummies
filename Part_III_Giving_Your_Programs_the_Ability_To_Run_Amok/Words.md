@@ -121,3 +121,8 @@
 - **treachery** : hıyanet, ihanet, hainlik;
 - **deceit** : hile, aldatma, yalan, düzenbazlık;
 - **pummeling** : yumruklama, vurmak;
+- **gizmos** : aygıtlar, işlevi belli olmayan aygıt;
+- **toiling** : zahmet;
+- **blasted** : patlatılmış, lanet olası;
+- **albeit** : gerçi, karşın;
+- **inane** : anlamsız, saçma, boş;

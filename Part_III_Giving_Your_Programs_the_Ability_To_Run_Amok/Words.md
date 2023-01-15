@@ -137,3 +137,6 @@
 - **amusement** : eğlence, eğlenme;
 - **cinchy** : çocuk oyuncağı;
 - **puke** : kusmak, kusturmak;
+- **wink** : göz kırpmak;
+- **nitty** : nitelik;
+- **spew** : kusmak, kusma;

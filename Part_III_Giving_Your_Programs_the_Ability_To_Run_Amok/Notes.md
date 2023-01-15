@@ -62,3 +62,12 @@
         statement(s);
         do_this;
     }
+
+#### Do-While loop Syntax
+-   do
+    {
+        statement(s);
+    }
+    while(condition);
+
+- When we taking input from user always its good practice to **check input bounds!**. This is also called making it bulletprof. Its used in professional programs.

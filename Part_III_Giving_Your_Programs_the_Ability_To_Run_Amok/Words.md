@@ -126,3 +126,14 @@
 - **blasted** : patlatılmış, lanet olası;
 - **albeit** : gerçi, karşın;
 - **inane** : anlamsız, saçma, boş;
+- **weave** : örgü, dokuma;
+- **wended** : gitti;
+- **sheer** : sırf, dik, düpedüz;
+- **midst** : ortasında, orta;
+- **leisurely** : yavaşca, acelesiz;
+- **faux pas** : gaf, pot;
+- **kosher** : saf, temiz;
+- **nauesa** : mide bulantısı, iğrenme, bulantı;
+- **amusement** : eğlence, eğlenme;
+- **cinchy** : çocuk oyuncağı;
+- **puke** : kusmak, kusturmak;

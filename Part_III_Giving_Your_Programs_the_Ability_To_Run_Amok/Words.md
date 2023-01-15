@@ -140,3 +140,5 @@
 - **wink** : göz kırpmak;
 - **nitty** : nitelik;
 - **spew** : kusmak, kusma;
+- **devised** : tasarlanmış, planlamak, icat etmek;
+- **pestering** : rahatsız etme;

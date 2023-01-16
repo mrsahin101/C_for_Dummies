@@ -75,3 +75,20 @@
 - C language has sleep(seconds) functions for generating delay. it could be usefull sometimes. In some implementation of GCC sleep function takes input in order of milliseconds.
 
 - **continue** keyword is very usefull. we can basically ignore that step with continue keyword.
+
+#### Switch-Case syntax
+-   switch(choice)
+    {
+        case item1:
+            statement(s);
+            break;
+        case item2:
+        case item3:
+            statement(s);
+            break;
+        default:
+            statement(s);
+    }
+- Using **break** keyword is important. If not program keep going through other case statements.
+
+- We can skip default when using switch-case. In this situation when no match found nothing happens.

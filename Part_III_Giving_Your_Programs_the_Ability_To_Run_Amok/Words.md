@@ -142,3 +142,8 @@
 - **spew** : kusmak, kusma;
 - **devised** : tasarlanmış, planlamak, icat etmek;
 - **pestering** : rahatsız etme;
+- **bane** : yıkım, felaket, afet;
+- **booger** : sümük;
+- **finesse** : incelik, ustalık, fines;
+- **stumble** : yanılmak, tökezlemek, ayağı takılmak;
+- **subtle** : göze çarpamayan, ince,

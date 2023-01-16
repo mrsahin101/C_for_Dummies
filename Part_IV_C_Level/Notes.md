@@ -27,3 +27,19 @@
 
 ### include keyword
 - Syntax : #include <filename> or when you make own header : #include "filename" -> When using this, compiler looks in same directory as your source code file.
+
+- #define, #include are preprocessor directives.
+
+- We include and write some defines and prototypes in header files. But actual instruction does the job are in .c files.
+
+- #defines are very good way to make abstraction and make code more readable.
+
+- #define TRUE 1 -> #define FALSE (!TRUE)   or #define FALSE 0 -> #define TRUE (!FALSE)     -> this both statment for bool operations are viable.
+
+- Macros are for including some part of source code. With macros we can compile 2 different executable from same source code!
+    1. #if
+    2. #else
+    3. #endif
+    4. #ifdef
+    5. #ifndef
+    6. #line

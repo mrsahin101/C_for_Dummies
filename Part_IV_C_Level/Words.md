@@ -43,3 +43,16 @@
 - **detritus** : döküntü, taş döküntü;
 - **piling up** : istiflenmek;s
 - **oodles** : çok fazla, çok fazla miktar;
+- **omitted** : atlanmış;
+- **superfluous** : gereksiz, fazla, bol bol;
+- **ponder** : düşünmek, kafa yormak, iyice düşünmek;
+- **unduly** : gereksiz yere, haksız yere, boş yere;
+- **wee** : ufacık, minnacık;
+- **lest** : diye, olmasın diye, olmaya ki;
+- **huffy** : huysuz, dargın, kolay sinirlenir, sinirli;
+- **belch** : geğirme, çıkarma;
+- **euphemisms** : örtmece, edebikelam;
+- **wend** : gitmek;
+- **doozy** : sersem;
+- **goobers** : şapşallar;
+- **chastise** :cezalandırmak, suçlamak, yerden yere vurmak;

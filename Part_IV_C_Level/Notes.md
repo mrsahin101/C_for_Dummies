@@ -24,3 +24,6 @@
 - Return syntax : return(something); -> this returns value from function. Type of variable depends on function type.
 
 - In C language main has to be defined as int type. Returnig **0** means that given task was completed succesfully. Any other than **0** value means some sort of error condition was happened!. Before ANSI standart main function was commonly decleared as void.
+
+### include keyword
+- Syntax : #include <filename> or when you make own header : #include "filename" -> When using this, compiler looks in same directory as your source code file.

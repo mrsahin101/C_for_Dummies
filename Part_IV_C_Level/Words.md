@@ -40,3 +40,6 @@
 - **scrunched** : buruşuk, ezmek, çıtırdatmak;
 - **brevity** : kısalık, özlük;
 - **legibility** : okunaklık, okunabilirlik;
+- **detritus** : döküntü, taş döküntü;
+- **piling up** : istiflenmek;s
+- **oodles** : çok fazla, çok fazla miktar;

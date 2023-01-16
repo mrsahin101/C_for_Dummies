@@ -22,4 +22,4 @@
 - **shan't** : olmaz;
 - **rehash** : tekrarlama, aynen sunma, yeniden ele alma;
 - **merely** : sadece, ancak, yanlız;
-- **barage** : baraj, engel, set;
+- **barage** : baraj, engel, set, yağmur;

@@ -23,3 +23,7 @@
 - **rehash** : tekrarlama, aynen sunma, yeniden ele alma;
 - **merely** : sadece, ancak, yanlız;
 - **barage** : baraj, engel, set, yağmur;
+- **quirk** : tuhaflık, espiri, kaçamak cevap;
+- **mulled** : düşünülmüş;
+- **yearn** : burnunda tütmek, özlemek, hasret olmak;
+- **concoct** : uydurmak, hazırlamak;

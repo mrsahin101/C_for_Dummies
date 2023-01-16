@@ -16,3 +16,10 @@
 - **honed** : bilenmiş, bilemek;
 - **noble**: soylu, asil, yüce;
 - **savored** : tadı, tadını çıkarmak, zevkine varmak;
+- **ambles** :  sallana sallana yürüme;
+- **contended** : iddialı;
+- **appease** : yatıştırmak, sakinleştirmek, bastırmak;
+- **shan't** : olmaz;
+- **rehash** : tekrarlama, aynen sunma, yeniden ele alma;
+- **merely** : sadece, ancak, yanlız;
+- **barage** : baraj, engel, set;

@@ -18,3 +18,9 @@
 - Avoid naming function same as C **keywords**
 
 - main() is reserved for first function(entry point.)
+
+- When dividing 2 integer number, if we want accurate result; must cast one of number to float or double. otherwise computer does integer division.
+
+- Return syntax : return(something); -> this returns value from function. Type of variable depends on function type.
+
+- In C language main has to be defined as int type. Returnig **0** means that given task was completed succesfully. Any other than **0** value means some sort of error condition was happened!. Before ANSI standart main function was commonly decleared as void.

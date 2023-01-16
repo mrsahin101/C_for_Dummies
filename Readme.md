@@ -3,3 +3,4 @@
 - This is just for vacation time, piece of cake book :)
 - Author has funny approach to subject. He makes funny jokes and uses many weird words in English!
 - It has companian book for reference. It's called C All-in One Desk Reference For Dummies. After i finish this book I wanna go through that aswell. 
+- Poor Bill. Author keep picking on him :)

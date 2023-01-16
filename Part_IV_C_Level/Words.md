@@ -32,3 +32,11 @@
 - **vernecular** : yöresel, argo, yerel lehçe, şive;
 - **tray** : tepsi, tabla, sini;
 - **occasion** : fırsat, durum, ortam, sebep, neden;
+- **gyp** : çingene, dolandırmak, aldatmak, dolandırıcı, düzenbaz;
+- **boasting** : övünme, palavra;
+- **tumid** : huysuz, şişkin, kabarık;
+- **waggles** : sallanmak, sallamak, hareket etmek;s
+- **snicker** : kıkırdama, gülmesini tutamama, kişneme;
+- **scrunched** : buruşuk, ezmek, çıtırdatmak;
+- **brevity** : kısalık, özlük;
+- **legibility** : okunaklık, okunabilirlik;

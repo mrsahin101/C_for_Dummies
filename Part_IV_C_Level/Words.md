@@ -27,3 +27,8 @@
 - **mulled** : düşünülmüş;
 - **yearn** : burnunda tütmek, özlemek, hasret olmak;
 - **concoct** : uydurmak, hazırlamak;
+- **combative** : hırçın, kavgacı;
+- **refrain** : alıkoy, sakınmak, kaçınmak, nakarat;
+- **vernecular** : yöresel, argo, yerel lehçe, şive;
+- **tray** : tepsi, tabla, sini;
+- **occasion** : fırsat, durum, ortam, sebep, neden;

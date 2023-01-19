@@ -52,5 +52,8 @@
 
 #### printf Escape sequences. 
 
-![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Escape_Sequences.PNG)
-![ Comparison Table](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Escape_Sequences_2.PNG)
+![ Escape Sequences](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Escape_Sequences.PNG)
+![  Escape Sequences](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Escape_Sequences_2.PNG)
+
+#### printf Conversion Characters
+![ Conversion Characters](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Conversion_Characters.PNG)

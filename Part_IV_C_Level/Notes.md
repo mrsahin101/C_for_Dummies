@@ -47,6 +47,8 @@
 #### printf Function
 - It displays text. Displays escape sequences. Can display variables with % conversion character.
 - Syntax : printf("text");
+- For example in some console to clear screen escape sequence is : \x1b[2J
+- printf formal syntax : printf("format_string",[var[,...]]);
 
 #### printf Escape sequences. 
 

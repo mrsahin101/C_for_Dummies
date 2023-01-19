@@ -57,3 +57,5 @@
 - **goobers** : şapşallar;
 - **chastise** :cezalandırmak, suçlamak, yerden yere vurmak;
 - **sundry** : güneşli;
+- **ghastly** : korkunç;
+- **tabular** : çizelge, yassı, cetvele göre hesaplanmış;

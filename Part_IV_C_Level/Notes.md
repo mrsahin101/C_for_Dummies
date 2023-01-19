@@ -49,6 +49,7 @@
 - Syntax : printf("text");
 - For example in some console to clear screen escape sequence is : \x1b[2J
 - printf formal syntax : printf("format_string",[var[,...]]);
+- In case needing some more information about printf and its formatting, refer to compiler documentation.
 
 #### printf Escape sequences. 
 

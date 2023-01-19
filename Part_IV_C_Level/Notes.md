@@ -49,3 +49,5 @@
 - Syntax : printf("text");
 
 #### printf Escape sequences. 
+
+![ Comparison Table]( https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_III_Giving_Your_Programs_the_Ability_To_Run_Amok/Images/Pre_Post_Increment_Decrement.PNG)

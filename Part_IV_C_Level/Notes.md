@@ -58,3 +58,12 @@
 
 #### printf Conversion Characters
 ![ Conversion Characters](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_IV_C_Level/Images/printf_Conversion_Characters.PNG)
+
+
+#### Math Library
+- pow(n,p) function takes n to power p;
+- sqrt(n) function takes square root of n;
+- For more math function refer to math library and documentation of the compiler!
+
+#### Small note about post increment & decrement
+- when we do b = a++; we actualy first make b = a then a = a + 1; 

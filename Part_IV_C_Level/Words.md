@@ -59,3 +59,15 @@
 - **sundry** : güneşli;
 - **ghastly** : korkunç;
 - **tabular** : çizelge, yassı, cetvele göre hesaplanmış;
+- **merely** : sadece, ancak, yalnız, sırf;
+- **jot** : zerre;
+- **hot** : yuh, yuhalama sesi, ötmek, çalmak;
+- **contraption** : mekanizma, acayip alet;
+- **divine** : ilahi, kutsal, tanrısal, harika;
+- **leery** : temkinli, uyanık, açıkgöz;
+- **boast** : övünme, övünç, iftihar;
+- **paraded** : gösterişli, teftiş için toplanmak, geçit töreni yapmak;
+- **bursting** : patlama;
+- **perils** :tehlike;
+- **conundrum** : muamma, bilmece, kelime oyunlu bilmece;
+- **incodd** : kodlanmış;

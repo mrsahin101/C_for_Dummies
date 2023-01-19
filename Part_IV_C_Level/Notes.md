@@ -43,3 +43,9 @@
     4. #ifdef
     5. #ifndef
     6. #line
+
+#### printf Function
+- It displays text. Displays escape sequences. Can display variables with % conversion character.
+- Syntax : printf("text");
+
+#### printf Escape sequences. 

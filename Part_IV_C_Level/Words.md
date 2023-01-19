@@ -56,3 +56,4 @@
 - **doozy** : sersem;
 - **goobers** : şapşallar;
 - **chastise** :cezalandırmak, suçlamak, yerden yere vurmak;
+- **sundry** : güneşli;

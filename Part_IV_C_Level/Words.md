@@ -71,3 +71,4 @@
 - **perils** :tehlike;
 - **conundrum** : muamma, bilmece, kelime oyunlu bilmece;
 - **incodd** : kodlanmış;
+- **pal** : dostum, ahbap, arkadaş;

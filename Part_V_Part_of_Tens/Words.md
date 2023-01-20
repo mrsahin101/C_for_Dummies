@@ -12,3 +12,6 @@
 - **ditto** : aynen, keza, aynı şekilde;
 - **blech** : leke;
 - **heed** : önemsemek, aldırmak, dikkat etmek;
+- **nods** : başını sallamak;
+- **hone** : bilemek;
+- **immerse** : batırmak, sokmak, gömmek;

@@ -25,3 +25,15 @@
 7. Naming your variables
 8. Solving incrementing and decrementing riddles
 9. Breaking out of a loop
+
+## Ten Ways to solve your own Programming Problems
+1. Work on one thing at a time!
+2. Break up your code
+3. Simplify your job
+4. Talk through problems
+5. Set breakpoints
+6. Monitor variables
+7. Document
+8. Use debugging tools
+9. Use an optimizer
+10. Read more books!

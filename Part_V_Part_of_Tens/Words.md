@@ -8,3 +8,7 @@
 - **devious** : sinsi, aldatıcı, dolambaçlı;
 - **prowl** : sinsi sinsi, fırsat kollamak, kolaçan etmek;
 - **haul** : çekmek, çekme, yük;
+- **riddles** : bilmeceler, bilmece, muamma;
+- **ditto** : aynen, keza, aynı şekilde;
+- **blech** : leke;
+- **heed** : önemsemek, aldırmak, dikkat etmek;

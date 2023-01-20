@@ -67,3 +67,15 @@
 
 #### Small note about post increment & decrement
 - when we do b = a++; we actualy first make b = a then a = a + 1; 
+
+#### srand() syntax
+- void srand((unsigned)seed);
+- try avoid seeding srand with number 1. 
+- modulus = big % little; -> basically gives us big / little calculation remainder.
+
+## Order of Predence in C
+1. Multiplication
+2. Division
+3. Modulus
+4. Addition
+5. Substraction
